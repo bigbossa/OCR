@@ -1,0 +1,6 @@
+{
+  "name": "Cramer OCR",
+  "description": "An OCR application to quickly and accurately extract structured data from important documents like weight slips, invoices, and receipts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
